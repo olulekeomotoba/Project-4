@@ -1,4 +1,6 @@
 # Project-4
+![Screenshot (111)](https://github.com/olulekeomotoba/Project-4/assets/149272576/2d212ee6-b438-4688-bdeb-89a3676f786a)
+ 
 **TITLE;**  <br>
 Call Centre Analysis of Softclue Global Technologies
 
@@ -17,7 +19,7 @@ Processed and cleaned call data to ensure accuracy and consistency for meaningfu
 **DATA TRANSFORMATION**  <br>
 Transformation was done on the already cleansed data. The data had a lot of issues and required thorough cleansing, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The Transformed Data was then saved and made ready for the data modelling
 
-**DATA MODELING:**  <br> 
+**DATA MODELING:**  <br>
 Created an optimized data model to establish relationships between call logs, agent performance, and call types. Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the organization's performance.
 
 **VISUALIZATION AND ANALYSIS:**  <br> 
@@ -50,3 +52,4 @@ Reports: Contains Power BI report files.
 Documentation: Includes project documentation, data dictionary, and analysis methodology.
 
 ![Screenshot (92)](https://github.com/olulekeomotoba/Project-4/assets/149272576/da90a29e-5041-4625-abf7-a42289408d35)
+![Screenshot (110)](https://github.com/olulekeomotoba/Project-4/assets/149272576/f686c318-ebfe-4d4f-9a85-c8416d8b0b82)
